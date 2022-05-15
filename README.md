@@ -12,7 +12,7 @@ go get github.com/Leonardo-Antonio/chesgomailings
 ```go
 package main
 
-import "github.com/Leonardo-Antonio/chesgomailings/chesgomailing"
+import "github.com/Leonardo-Antonio/chesgomailings/chesgomailing@v1.0.0"
 
 func main() {
 	config := chesgomailing.Config{
